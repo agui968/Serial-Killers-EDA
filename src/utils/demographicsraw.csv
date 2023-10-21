@@ -1,0 +1,356 @@
+,code,year,value,country name,country,density
+0,AUS,2018.0,0.124,Australia,Australia,3.010
+1,AUS,2020.0,0.126,Australia,Australia,3.010
+2,AUT,2018.0,0.094,Austria,Austria,102.830
+3,AUT,2019.0,0.1,Austria,Austria,102.830
+4,AUT,2020.0,0.096,Austria,Austria,102.830
+5,BEL,2018.0,0.082,Belgium,Belgium,369.720
+6,BEL,2019.0,0.081,Belgium,Belgium,369.720
+7,BEL,2020.0,0.073,Belgium,Belgium,369.720
+8,CAN,2018.0,0.118,Canada,Canada,3.870
+9,CAN,2019.0,0.115,Canada,Canada,3.870
+10,CAN,2020.0,0.086,Canada,Canada,3.870
+11,CZE,2018.0,0.061,Czech Republic,Czech Republic,136.240
+12,CZE,2019.0,0.056,Czech Republic,Czech Republic,136.240
+13,CZE,2020.0,0.053,Czech Republic,Czech Republic,136.240
+14,DNK,2018.0,0.064,Denmark,Denmark,132.310
+15,DNK,2019.0,0.065,Denmark,Denmark,132.310
+16,FIN,2018.0,0.065,Finland,Finland,17.900
+17,FIN,2019.0,0.064,Finland,Finland,17.900
+18,FIN,2020.0,0.057,Finland,Finland,17.900
+19,FIN,2021.0,0.067,Finland,Finland,17.900
+20,FRA,2018.0,0.085,France,France,120.590
+21,FRA,2019.0,0.084,France,France,120.590
+22,DEU,2018.0,0.098,Germany,Germany,231.310
+23,DEU,2019.0,0.109,Germany,Germany,231.310
+24,GRC,2018.0,0.121,Greece,Greece,85.590
+25,GRC,2019.0,0.115,Greece,Greece,85.590
+26,GRC,2020.0,0.13,Greece,Greece,85.590
+27,HUN,2018.0,0.087,Hungary,Hungary,109.330
+28,HUN,2019.0,0.092,Hungary,Hungary,109.330
+29,HUN,2020.0,0.087,Hungary,Hungary,109.330
+30,IRL,2018.0,0.074,Ireland,Ireland,66.700
+31,IRL,2019.0,0.081,Ireland,Ireland,66.700
+32,IRL,2020.0,0.077,Ireland,Ireland,66.700
+33,ITA,2018.0,0.142,Italy,Italy,203.410
+34,ITA,2019.0,0.136,Italy,Italy,203.410
+35,ITA,2020.0,0.135,Italy,Italy,203.410
+36,KOR,2018.0,0.167,"Korea, Republic of",,
+37,KOR,2019.0,0.163,"Korea, Republic of",,
+38,KOR,2020.0,0.153,"Korea, Republic of",,
+39,LUX,2018.0,0.114,Luxembourg,Luxembourg,209.730
+40,LUX,2019.0,0.105,Luxembourg,Luxembourg,209.730
+41,LUX,2020.0,0.098,Luxembourg,Luxembourg,209.730
+42,MEX,2018.0,0.159,Mexico,Mexico,62.930
+43,MEX,2020.0,0.166,Mexico,Mexico,62.930
+44,NLD,2018.0,0.078,Netherlands,Netherlands,498.350
+45,NLD,2019.0,0.08,Netherlands,Netherlands,498.350
+46,NLD,2020.0,0.082,Netherlands,Netherlands,498.350
+47,NLD,2021.0,0.085,Netherlands,Netherlands,498.350
+48,NZL,2018.0,0.137,New Zealand,New Zealand,16.980
+49,NZL,2019.0,0.129,New Zealand,New Zealand,16.980
+50,NZL,2020.0,0.124,New Zealand,New Zealand,16.980
+51,NOR,2018.0,0.084,Norway,Norway,13.920
+52,NOR,2019.0,0.084,Norway,Norway,13.920
+53,NOR,2020.0,0.084,Norway,Norway,13.920
+54,NOR,2021.0,0.079,Norway,Norway,13.920
+55,POL,2018.0,0.098,Poland,Poland,125.830
+56,POL,2019.0,0.094,Poland,Poland,125.830
+57,POL,2020.0,0.091,Poland,Poland,125.830
+58,PRT,2018.0,0.104,Portugal,Portugal,114.200
+59,PRT,2019.0,0.106,Portugal,Portugal,114.200
+60,PRT,2020.0,0.128,Portugal,Portugal,114.200
+61,SVK,2018.0,0.077,Slovakia,,
+62,SVK,2019.0,0.078,Slovakia,,
+63,ESP,2018.0,0.142,Spain,Spain,93.520
+64,ESP,2019.0,0.147,Spain,Spain,93.520
+65,ESP,2020.0,0.154,Spain,Spain,93.520
+66,SWE,2018.0,0.087,Sweden,Sweden,23.550
+67,SWE,2019.0,0.091,Sweden,Sweden,23.550
+68,SWE,2020.0,0.088,Sweden,Sweden,23.550
+69,SWE,2021.0,0.092,Sweden,Sweden,23.550
+70,CHE,2018.0,0.105,Switzerland,Switzerland,204.510
+71,CHE,2019.0,0.099,Switzerland,Switzerland,204.510
+72,TUR,2018.0,0.144,Turkey,Turkey,97.360
+73,TUR,2019.0,0.15,Turkey,Turkey,97.360
+74,GBR,2018.0,0.117,United Kingdom,United Kingdom,264.940
+75,GBR,2019.0,0.124,United Kingdom,United Kingdom,264.940
+76,GBR,2020.0,0.112,United Kingdom,United Kingdom,264.940
+77,USA,2018.0,0.181,United States,United States,34.560
+78,USA,2019.0,0.18,United States,United States,34.560
+79,USA,2020.0,0.164,United States,United States,34.560
+80,USA,2021.0,0.151,United States,United States,34.560
+81,EST,2018.0,0.163,Estonia,Estonia,31.250
+82,EST,2019.0,0.149,Estonia,Estonia,31.250
+83,EST,2020.0,0.158,Estonia,Estonia,31.250
+84,ISR,2018.0,0.169,Israel,Israel,372.430
+85,ISR,2019.0,0.173,Israel,Israel,372.430
+86,ISR,2020.0,0.169,Israel,Israel,372.430
+87,SVN,2018.0,0.075,Slovenia,Slovenia,102.310
+88,SVN,2019.0,0.074,Slovenia,Slovenia,102.310
+89,SVN,2020.0,0.07,Slovenia,Slovenia,102.310
+90,JPN,2018.0,0.157,Japan,Japan,349.290
+91,LVA,2018.0,0.175,Latvia,Latvia,32.380
+92,LVA,2019.0,0.162,Latvia,Latvia,32.380
+93,LVA,2020.0,0.169,Latvia,Latvia,32.380
+94,LVA,2021.0,0.16,Latvia,Latvia,32.380
+95,LTU,2018.0,0.155,Lithuania,Lithuania,47.170
+96,LTU,2019.0,0.154,Lithuania,Lithuania,47.170
+97,LTU,2020.0,0.141,Lithuania,Lithuania,47.170
+98,CRI,2018.0,0.209,Costa Rica,Costa Rica,95.420
+99,CRI,2019.0,0.199,Costa Rica,Costa Rica,95.420
+100,CRI,2020.0,0.205,Costa Rica,Costa Rica,95.420
+101,CRI,2021.0,0.203,Costa Rica,Costa Rica,95.420
+102,BGR,2018.0,0.167,Bulgaria,Bulgaria,66.920
+103,BGR,2019.0,0.176,Bulgaria,Bulgaria,66.920
+104,BGR,2020.0,0.158,Bulgaria,Bulgaria,66.920
+105,ROU,2018.0,0.174,Romania,Romania,86.790
+106,ROU,2019.0,0.17,Romania,Romania,86.790
+107,ROU,2020.0,0.175,Romania,Romania,86.790
+108,HRV,2018.0,0.13,Croatia,Croatia,76.000
+109,HRV,2019.0,0.133,Croatia,Croatia,76.000
+110,HRV,2020.0,0.131,Croatia,Croatia,76.000
+111,AFG,,,Afghanistan,Afghanistan,46.800
+112,ALA,,,Åland Islands,,
+113,ALB,,,Albania,Albania,101.230
+114,DZA,,,Algeria,Algeria,16.460
+115,ASM,,,American Samoa,American Samoa,275.830
+116,AND,,,Andorra,Andorra,168.550
+117,AGO,,,Angola,Angola,17.220
+118,AIA,,,Anguilla,,
+119,ATA,,,Antarctica,,
+120,ATG,,,Antigua and Barbuda,Antigua and Barbuda,204.510
+121,ARG,,,Argentina,Argentina,15.140
+122,ARM,,,Armenia,Armenia,104.550
+123,ABW,,,Aruba,Aruba,571.730
+124,AZE,,,Azerbaijan,Azerbaijan,113.920
+125,BHS,,,Bahamas,,
+126,BHR,,,Bahrain,Bahrain,"1,752.860"
+127,BGD,,,Bangladesh,Bangladesh,"1,203.000"
+128,BRB,,,Barbados,Barbados,661.960
+129,BLR,,,Belarus,Belarus,46.650
+130,BLZ,,,Belize,Belize,14.550
+131,BEN,,,Benin,Benin,91.550
+132,BMU,,,Bermuda,Bermuda,"1,300.480"
+133,BTN,,,Bhutan,Bhutan,19.780
+134,BOL,,,"Bolivia, Plurinational State of",,
+135,BIH,,,Bosnia and Herzegovina,Bosnia and Herzegovina,75.080
+136,BWA,,,Botswana,Botswana,3.570
+137,BVT,,,Bouvet Island,,
+138,BRA,,,Brazil,Brazil,23.970
+139,IOT,,,British Indian Ocean Territory,,
+140,BRN,,,Brunei Darussalam,Brunei Darussalam,79.280
+141,BFA,,,Burkina Faso,Burkina Faso,61.900
+142,BDI,,,Burundi,Burundi,395.740
+143,KHM,,,Cambodia,Cambodia,85.740
+144,CMR,,,Cameroon,Cameroon,47.080
+145,CPV,,,Cape Verde,,
+146,CYM,,,Cayman Islands,Cayman Islands,243.480
+147,CAF,,,Central African Republic,Central African Republic,7.410
+148,TCD,,,Chad,Chad,10.190
+149,CHL,,,Chile,Chile,23.700
+150,CHN,,,China,China,144.580
+151,CXR,,,Christmas Island,,
+152,CCK,,,Cocos (Keeling) Islands,,
+153,COL,,,Colombia,Colombia,43.550
+154,COM,,,Comoros,Comoros,394.900
+155,COG,,,Congo,,
+156,COD,,,"Congo, the Democratic Republic of the",,
+157,COK,,,Cook Islands,,
+158,CIV,,,Côte d'Ivoire,,
+159,CUB,,,Cuba,Cuba,105.840
+160,CYP,,,Cyprus,Cyprus,123.500
+161,DJI,,,Djibouti,Djibouti,37.660
+162,DMA,,,Dominica,Dominica,96.000
+163,DOM,,,Dominican Republic,Dominican Republic,215.310
+164,ECU,,,Ecuador,Ecuador,63.370
+165,EGY,,,Egypt,,
+166,SLV,,,El Salvador,El Salvador,306.010
+167,GNQ,,,Equatorial Guinea,Equatorial Guinea,26.990
+168,ERI,,,Eritrea,Eritrea,62.700
+169,ETH,,,Ethiopia,Ethiopia,94.100
+170,FLK,,,Falkland Islands (Malvinas),,
+171,FRO,,,Faroe Islands,,
+172,FJI,,,Fiji,Fiji,48.220
+173,GUF,,,French Guiana,,
+174,PYF,,,French Polynesia,French Polynesia,75.640
+175,ATF,,,French Southern Territories,,
+176,GAB,,,Gabon,Gabon,6.490
+177,GMB,,,Gambia,,
+178,GEO,,,Georgia,Georgia,78.320
+179,GHA,,,Ghana,Ghana,113.850
+180,GIB,,,Gibraltar,,
+181,GRL,,,Greenland,Greenland,0.140
+182,GRD,,,Grenada,Grenada,311.460
+183,GLP,,,Guadeloupe,,
+184,GUM,,,Guam,Guam,305.790
+185,GTM,,,Guatemala,Guatemala,144.350
+186,GGY,,,Guernsey,,
+187,GIN,,,Guinea,Guinea,47.800
+188,GNB,,,Guinea-Bissau,Guinea-Bissau,60.610
+189,GUY,,,Guyana,Guyana,4.060
+190,HTI,,,Haiti,Haiti,374.360
+191,HMD,,,Heard Island and McDonald Islands,,
+192,VAT,,,Holy See (Vatican City State),,
+193,HND,,,Honduras,Honduras,72.370
+194,HKG,,,Hong Kong,,
+195,ISL,,,Iceland,Iceland,3.220
+196,IND,,,India,India,421.140
+197,IDN,,,Indonesia,Indonesia,124.000
+198,IRN,,,"Iran, Islamic Republic of",,
+199,IRQ,,,Iraq,Iraq,76.940
+200,IMN,,,Isle of Man,Isle of Man,150.680
+201,JAM,,,Jamaica,Jamaica,250.690
+202,JEY,,,Jersey,,
+203,JOR,,,Jordan,Jordan,72.750
+204,KAZ,,,Kazakhstan,Kazakhstan,6.310
+205,KEN,,,Kenya,Kenya,77.930
+206,KIR,,,Kiribati,Kiribati,126.360
+207,PRK,,,"Korea, Democratic People's Republic of",,
+208,KWT,,,Kuwait,Kuwait,189.030
+209,KGZ,,,Kyrgyzstan,,
+210,LAO,,,Lao People's Democratic Republic,,
+211,LBN,,,Lebanon,Lebanon,436.700
+212,LSO,,,Lesotho,Lesotho,68.330
+213,LBR,,,Liberia,Liberia,44.580
+214,LBY,,,Libyan Arab Jamahiriya,,
+215,LIE,,,Liechtenstein,Liechtenstein,230.780
+216,MAC,,,Macao,,
+217,MKD,,,"Macedonia, the former Yugoslav Republic of",,
+218,MDG,,,Madagascar,Madagascar,39.400
+219,MWI,,,Malawi,Malawi,173.550
+220,MYS,,,Malaysia,Malaysia,90.450
+221,MDV,,,Maldives,Maldives,"1,150.080"
+222,MLI,,,Mali,Mali,12.540
+223,MLT,,,Malta,Malta,"1,322.760"
+224,MHL,,,Marshall Islands,Marshall Islands,292.410
+225,MTQ,,,Martinique,,
+226,MRT,,,Mauritania,Mauritania,3.770
+227,MUS,,,Mauritius,Mauritius,638.570
+228,MYT,,,Mayotte,,
+229,FSM,,,"Micronesia, Federated States of",,
+230,MDA,,,"Moldova, Republic of",,
+231,MCO,,,Monaco,Monaco,"18,915.500"
+232,MNG,,,Mongolia,Mongolia,1.830
+233,MNE,,,Montenegro,Montenegro,46.200
+234,MSR,,,Montserrat,,
+235,MAR,,,Morocco,Morocco,73.960
+236,MOZ,,,Mozambique,Mozambique,32.850
+237,MMR,,,Myanmar,Myanmar,81.520
+238,NAM,,,Namibia,Namibia,2.800
+239,NRU,,,Nauru,,
+240,NPL,,,Nepal,Nepal,193.910
+241,ANT,,,Netherlands Antilles,,
+242,NCL,,,New Caledonia,New Caledonia,14.330
+243,NIC,,,Nicaragua,Nicaragua,50.530
+244,NER,,,Niger,Niger,14.080
+245,NGA,,,Nigeria,Nigeria,190.620
+246,NIU,,,Niue,,
+247,NFK,,,Norfolk Island,,
+248,MNP,,,Northern Mariana Islands,Northern Mariana Islands,117.080
+249,OMN,,,Oman,Oman,11.740
+250,PAK,,,Pakistan,Pakistan,236.280
+251,PLW,,,Palau,Palau,45.470
+252,PSE,,,"Palestinian Territory, Occupied",,
+253,PAN,,,Panama,Panama,51.980
+254,PNG,,,Papua New Guinea,Papua New Guinea,16.170
+255,PRY,,,Paraguay,Paraguay,17.120
+256,PER,,,Peru,Peru,23.730
+257,PHL,,,Philippines,Philippines,329.990
+258,PCN,,,Pitcairn,,
+259,PRI,,,Puerto Rico,Puerto Rico,407.560
+260,QAT,,,Qatar,Qatar,186.790
+261,REU,,,Réunion,,
+262,RUS,,,Russian Federation,Russian Federation,8.760
+263,RWA,,,Rwanda,Rwanda,477.360
+264,BLM,,,Saint Barthélemy,,
+265,SHN,,,"Saint Helena, Ascension and Tristan da Cunha",,
+266,KNA,,,Saint Kitts and Nevis,,
+267,LCA,,,Saint Lucia,,
+268,MAF,,,Saint Martin (French part),,
+269,SPM,,,Saint Pierre and Miquelon,,
+270,VCT,,,Saint Vincent and the Grenadines,,
+271,WSM,,,Samoa,Samoa,67.270
+272,SMR,,,San Marino,San Marino,524.130
+273,STP,,,Sao Tome and Principe,Sao Tome and Principe,201.030
+274,SAU,,,Saudi Arabia,Saudi Arabia,13.410
+275,SEN,,,Senegal,Senegal,73.410
+276,SRB,,,Serbia,Serbia,81.910
+277,SYC,,,Seychelles,Seychelles,193.850
+278,SLE,,,Sierra Leone,Sierra Leone,84.400
+279,SGP,,,Singapore,Singapore,"7,713.140"
+280,SLB,,,Solomon Islands,Solomon Islands,20.050
+281,SOM,,,Somalia,Somalia,16.730
+282,ZAF,,,South Africa,South Africa,43.680
+283,SGS,,,South Georgia and the South Sandwich Islands,,
+284,LKA,,,Sri Lanka,Sri Lanka,326.630
+285,SDN,,,Sudan,Sudan,20.730
+286,SUR,,,Suriname,Suriname,3.460
+287,SJM,,,Svalbard and Jan Mayen,,
+288,SWZ,,,Swaziland,Swaziland,72.650
+289,SYR,,,Syrian Arab Republic,Syrian Arab Republic,124.410
+290,TWN,,,"Taiwan, Province of China",,
+291,TJK,,,Tajikistan,Tajikistan,58.640
+292,TZA,,,"Tanzania, United Republic of",,
+293,THA,,,Thailand,Thailand,131.160
+294,TLS,,,Timor-Leste,Timor-Leste,79.240
+295,TGO,,,Togo,Togo,125.340
+296,TKL,,,Tokelau,,
+297,TON,,,Tonga,Tonga,146.280
+298,TTO,,,Trinidad and Tobago,Trinidad and Tobago,261.430
+299,TUN,,,Tunisia,Tunisia,70.070
+300,TKM,,,Turkmenistan,Turkmenistan,11.150
+301,TCA,,,Turks and Caicos Islands,Turks and Caicos Islands,34.840
+302,TUV,,,Tuvalu,Tuvalu,329.200
+303,UGA,,,Uganda,Uganda,188.070
+304,UKR,,,Ukraine,Ukraine,78.520
+305,ARE,,,United Arab Emirates,United Arab Emirates,111.800
+306,UMI,,,United States Minor Outlying Islands,,
+307,URY,,,Uruguay,Uruguay,19.470
+308,UZB,,,Uzbekistan,Uzbekistan,71.090
+309,VUT,,,Vanuatu,Vanuatu,20.740
+310,VEN,,,"Venezuela, Bolivarian Republic of",,
+311,VNM,,,Viet Nam,,
+312,VGB,,,"Virgin Islands, British",,
+313,VIR,,,"Virgin Islands, U.S.",,
+314,WLF,,,Wallis and Futuna,,
+315,ESH,,,Western Sahara,,
+316,YEM,,,Yemen,,
+317,ZMB,,,Zambia,Zambia,19.560
+318,ZWE,,,Zimbabwe,Zimbabwe,36.580
+319,,,,,"Bahamas, The",37.700
+320,,,,,Bolivia,9.850
+321,,,,,Cabo Verde,123.800
+322,,,,,Channel Islands,852.730
+323,,,,,"Congo, Dem. Rep.",29.780
+324,,,,,"Congo, Rep.",13.020
+325,,,,,Ivory Coast,63.890
+326,,,,,Curacao,345.720
+327,,,,,"Egypt, Arab Rep.",82.430
+328,,,,,Faeroe Islands,35.440
+329,,,,,"Gambia, The",182.740
+330,,,,,"Hong Kong SAR, China","6,845.240"
+331,,,,,"Iran, Islamic Rep.",47.560
+332,,,,,"Korea, Dem. Rep.",206.760
+333,,,,,"Korea, Rep.",515.870
+334,,,,,Kosovo,167.540
+335,,,,,Kyrgyz Republic,29.820
+336,,,,,Lao PDR,29.330
+337,,,,,Libya,3.520
+338,,,,,"Macao SAR, China","18,942.310"
+339,,,,,"Macedonia, FYR",83.550
+340,,,,,"Micronesia, Fed. Sts.",147.930
+341,,,,,Moldova,124.020
+342,,,,,Sint Maarten (Dutch part),"1,167.320"
+343,,,,,Slovak Republic,112.590
+344,,,,,South Sudan,0.000
+345,,,,,St. Kitts and Nevis,208.430
+346,,,,,St. Lucia,298.810
+347,,,,,St. Martin (French part),574.710
+348,,,,,St. Vincent and the Grenadines,280.440
+349,,,,,Tanzania,55.600
+350,,,,,"Venezuela, RB",34.470
+351,,,,,Vietnam,289.320
+352,,,,,Virgin Islands (U.S.),299.250
+353,,,,,West Bank and Gaza,692.610
+354,,,,,"Yemen, Rep.",46.230

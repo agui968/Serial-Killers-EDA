@@ -1,0 +1,112 @@
+,code,year,value,country name
+0,AUS,2018.0,0.124,Australia
+1,AUS,2020.0,0.126,Australia
+2,AUT,2018.0,0.094,Austria
+3,AUT,2019.0,0.1,Austria
+4,AUT,2020.0,0.096,Austria
+5,BEL,2018.0,0.082,Belgium
+6,BEL,2019.0,0.081,Belgium
+7,BEL,2020.0,0.073,Belgium
+8,CAN,2018.0,0.118,Canada
+9,CAN,2019.0,0.115,Canada
+10,CAN,2020.0,0.086,Canada
+11,CZE,2018.0,0.061,Czech Republic
+12,CZE,2019.0,0.056,Czech Republic
+13,CZE,2020.0,0.053,Czech Republic
+14,DNK,2018.0,0.064,Denmark
+15,DNK,2019.0,0.065,Denmark
+16,FIN,2018.0,0.065,Finland
+17,FIN,2019.0,0.064,Finland
+18,FIN,2020.0,0.057,Finland
+19,FIN,2021.0,0.067,Finland
+20,FRA,2018.0,0.085,France
+21,FRA,2019.0,0.084,France
+22,DEU,2018.0,0.098,Germany
+23,DEU,2019.0,0.109,Germany
+24,GRC,2018.0,0.121,Greece
+25,GRC,2019.0,0.115,Greece
+26,GRC,2020.0,0.13,Greece
+27,HUN,2018.0,0.087,Hungary
+28,HUN,2019.0,0.092,Hungary
+29,HUN,2020.0,0.087,Hungary
+30,IRL,2018.0,0.074,Ireland
+31,IRL,2019.0,0.081,Ireland
+32,IRL,2020.0,0.077,Ireland
+33,ITA,2018.0,0.142,Italy
+34,ITA,2019.0,0.136,Italy
+35,ITA,2020.0,0.135,Italy
+36,KOR,2018.0,0.167,"Korea, Republic of"
+37,KOR,2019.0,0.163,"Korea, Republic of"
+38,KOR,2020.0,0.153,"Korea, Republic of"
+39,LUX,2018.0,0.114,Luxembourg
+40,LUX,2019.0,0.105,Luxembourg
+41,LUX,2020.0,0.098,Luxembourg
+42,MEX,2018.0,0.159,Mexico
+43,MEX,2020.0,0.166,Mexico
+44,NLD,2018.0,0.078,Netherlands
+45,NLD,2019.0,0.08,Netherlands
+46,NLD,2020.0,0.082,Netherlands
+47,NLD,2021.0,0.085,Netherlands
+48,NZL,2018.0,0.137,New Zealand
+49,NZL,2019.0,0.129,New Zealand
+50,NZL,2020.0,0.124,New Zealand
+51,NOR,2018.0,0.084,Norway
+52,NOR,2019.0,0.084,Norway
+53,NOR,2020.0,0.084,Norway
+54,NOR,2021.0,0.079,Norway
+55,POL,2018.0,0.098,Poland
+56,POL,2019.0,0.094,Poland
+57,POL,2020.0,0.091,Poland
+58,PRT,2018.0,0.104,Portugal
+59,PRT,2019.0,0.106,Portugal
+60,PRT,2020.0,0.128,Portugal
+61,SVK,2018.0,0.077,Slovakia
+62,SVK,2019.0,0.078,Slovakia
+63,ESP,2018.0,0.142,Spain
+64,ESP,2019.0,0.147,Spain
+65,ESP,2020.0,0.154,Spain
+66,SWE,2018.0,0.087,Sweden
+67,SWE,2019.0,0.091,Sweden
+68,SWE,2020.0,0.088,Sweden
+69,SWE,2021.0,0.092,Sweden
+70,CHE,2018.0,0.105,Switzerland
+71,CHE,2019.0,0.099,Switzerland
+72,TUR,2018.0,0.144,Turkey
+73,TUR,2019.0,0.15,Turkey
+74,GBR,2018.0,0.117,United Kingdom
+75,GBR,2019.0,0.124,United Kingdom
+76,GBR,2020.0,0.112,United Kingdom
+77,USA,2018.0,0.181,United States
+78,USA,2019.0,0.18,United States
+79,USA,2020.0,0.164,United States
+80,USA,2021.0,0.151,United States
+81,EST,2018.0,0.163,Estonia
+82,EST,2019.0,0.149,Estonia
+83,EST,2020.0,0.158,Estonia
+84,ISR,2018.0,0.169,Israel
+85,ISR,2019.0,0.173,Israel
+86,ISR,2020.0,0.169,Israel
+87,SVN,2018.0,0.075,Slovenia
+88,SVN,2019.0,0.074,Slovenia
+89,SVN,2020.0,0.07,Slovenia
+90,JPN,2018.0,0.157,Japan
+91,LVA,2018.0,0.175,Latvia
+92,LVA,2019.0,0.162,Latvia
+93,LVA,2020.0,0.169,Latvia
+94,LVA,2021.0,0.16,Latvia
+95,LTU,2018.0,0.155,Lithuania
+96,LTU,2019.0,0.154,Lithuania
+97,LTU,2020.0,0.141,Lithuania
+98,CRI,2018.0,0.209,Costa Rica
+99,CRI,2019.0,0.199,Costa Rica
+100,CRI,2020.0,0.205,Costa Rica
+101,CRI,2021.0,0.203,Costa Rica
+102,BGR,2018.0,0.167,Bulgaria
+103,BGR,2019.0,0.176,Bulgaria
+104,BGR,2020.0,0.158,Bulgaria
+105,ROU,2018.0,0.174,Romania
+106,ROU,2019.0,0.17,Romania
+107,ROU,2020.0,0.175,Romania
+108,HRV,2018.0,0.13,Croatia
+109,HRV,2019.0,0.133,Croatia
+110,HRV,2020.0,0.131,Croatia

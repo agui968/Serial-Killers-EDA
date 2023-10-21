@@ -1,0 +1,215 @@
+,country,density
+0,Afghanistan,46.800
+1,Albania,101.230
+2,Algeria,16.460
+3,American Samoa,275.830
+4,Andorra,168.550
+5,Angola,17.220
+6,Antigua and Barbuda,204.510
+7,Argentina,15.140
+8,Armenia,104.550
+9,Aruba,571.730
+10,Australia,3.010
+11,Austria,102.830
+12,Azerbaijan,113.920
+13,"Bahamas, The",37.700
+14,Bahrain,"1,752.860"
+15,Bangladesh,"1,203.000"
+16,Barbados,661.960
+17,Belarus,46.650
+18,Belgium,369.720
+19,Belize,14.550
+20,Benin,91.550
+21,Bermuda,"1,300.480"
+22,Bhutan,19.780
+23,Bolivia,9.850
+24,Bosnia and Herzegovina,75.080
+25,Botswana,3.570
+26,Brazil,23.970
+27,Brunei Darussalam,79.280
+28,Bulgaria,66.920
+29,Burkina Faso,61.900
+30,Burundi,395.740
+31,Cabo Verde,123.800
+32,Cambodia,85.740
+33,Cameroon,47.080
+34,Canada,3.870
+35,Cayman Islands,243.480
+36,Central African Republic,7.410
+37,Chad,10.190
+38,Channel Islands,852.730
+39,Chile,23.700
+40,China,144.580
+41,Colombia,43.550
+42,Comoros,394.900
+43,"Congo, Dem. Rep.",29.780
+44,"Congo, Rep.",13.020
+45,Costa Rica,95.420
+46,Ivory Coast,63.890
+47,Croatia,76.000
+48,Cuba,105.840
+49,Curacao,345.720
+50,Cyprus,123.500
+51,Czech Republic,136.240
+52,Denmark,132.310
+53,Djibouti,37.660
+54,Dominica,96.000
+55,Dominican Republic,215.310
+56,Ecuador,63.370
+57,"Egypt, Arab Rep.",82.430
+58,El Salvador,306.010
+59,Equatorial Guinea,26.990
+60,Eritrea,62.700
+61,Estonia,31.250
+62,Ethiopia,94.100
+63,Faeroe Islands,35.440
+64,Fiji,48.220
+65,Finland,17.900
+66,France,120.590
+67,French Polynesia,75.640
+68,Gabon,6.490
+69,"Gambia, The",182.740
+70,Georgia,78.320
+71,Germany,231.310
+72,Ghana,113.850
+73,Greece,85.590
+74,Greenland,0.140
+75,Grenada,311.460
+76,Guam,305.790
+77,Guatemala,144.350
+78,Guinea,47.800
+79,Guinea-Bissau,60.610
+80,Guyana,4.060
+81,Haiti,374.360
+82,Honduras,72.370
+83,"Hong Kong SAR, China","6,845.240"
+84,Hungary,109.330
+85,Iceland,3.220
+86,India,421.140
+87,Indonesia,124.000
+88,"Iran, Islamic Rep.",47.560
+89,Iraq,76.940
+90,Ireland,66.700
+91,Isle of Man,150.680
+92,Israel,372.430
+93,Italy,203.410
+94,Jamaica,250.690
+95,Japan,349.290
+96,Jordan,72.750
+97,Kazakhstan,6.310
+98,Kenya,77.930
+99,Kiribati,126.360
+100,"Korea, Dem. Rep.",206.760
+101,"Korea, Rep.",515.870
+102,Kosovo,167.540
+103,Kuwait,189.030
+104,Kyrgyz Republic,29.820
+105,Lao PDR,29.330
+106,Latvia,32.380
+107,Lebanon,436.700
+108,Lesotho,68.330
+109,Liberia,44.580
+110,Libya,3.520
+111,Liechtenstein,230.780
+112,Lithuania,47.170
+113,Luxembourg,209.730
+114,"Macao SAR, China","18,942.310"
+115,"Macedonia, FYR",83.550
+116,Madagascar,39.400
+117,Malawi,173.550
+118,Malaysia,90.450
+119,Maldives,"1,150.080"
+120,Mali,12.540
+121,Malta,"1,322.760"
+122,Marshall Islands,292.410
+123,Mauritania,3.770
+124,Mauritius,638.570
+125,Mexico,62.930
+126,"Micronesia, Fed. Sts.",147.930
+127,Moldova,124.020
+128,Monaco,"18,915.500"
+129,Mongolia,1.830
+130,Montenegro,46.200
+131,Morocco,73.960
+132,Mozambique,32.850
+133,Myanmar,81.520
+134,Namibia,2.800
+135,Nepal,193.910
+136,Netherlands,498.350
+137,New Caledonia,14.330
+138,New Zealand,16.980
+139,Nicaragua,50.530
+140,Niger,14.080
+141,Nigeria,190.620
+142,Northern Mariana Islands,117.080
+143,Norway,13.920
+144,Oman,11.740
+145,Pakistan,236.280
+146,Palau,45.470
+147,Panama,51.980
+148,Papua New Guinea,16.170
+149,Paraguay,17.120
+150,Peru,23.730
+151,Philippines,329.990
+152,Poland,125.830
+153,Portugal,114.200
+154,Puerto Rico,407.560
+155,Qatar,186.790
+156,Romania,86.790
+157,Russian Federation,8.760
+158,Rwanda,477.360
+159,Samoa,67.270
+160,San Marino,524.130
+161,Sao Tome and Principe,201.030
+162,Saudi Arabia,13.410
+163,Senegal,73.410
+164,Serbia,81.910
+165,Seychelles,193.850
+166,Sierra Leone,84.400
+167,Singapore,"7,713.140"
+168,Sint Maarten (Dutch part),"1,167.320"
+169,Slovak Republic,112.590
+170,Slovenia,102.310
+171,Solomon Islands,20.050
+172,Somalia,16.730
+173,South Africa,43.680
+174,South Sudan,0.000
+175,Spain,93.520
+176,Sri Lanka,326.630
+177,St. Kitts and Nevis,208.430
+178,St. Lucia,298.810
+179,St. Martin (French part),574.710
+180,St. Vincent and the Grenadines,280.440
+181,Sudan,20.730
+182,Suriname,3.460
+183,Swaziland,72.650
+184,Sweden,23.550
+185,Switzerland,204.510
+186,Syrian Arab Republic,124.410
+187,Tajikistan,58.640
+188,Tanzania,55.600
+189,Thailand,131.160
+190,Timor-Leste,79.240
+191,Togo,125.340
+192,Tonga,146.280
+193,Trinidad and Tobago,261.430
+194,Tunisia,70.070
+195,Turkey,97.360
+196,Turkmenistan,11.150
+197,Turks and Caicos Islands,34.840
+198,Tuvalu,329.200
+199,Uganda,188.070
+200,Ukraine,78.520
+201,United Arab Emirates,111.800
+202,United Kingdom,264.940
+203,United States,34.560
+204,Uruguay,19.470
+205,Uzbekistan,71.090
+206,Vanuatu,20.740
+207,"Venezuela, RB",34.470
+208,Vietnam,289.320
+209,Virgin Islands (U.S.),299.250
+210,West Bank and Gaza,692.610
+211,"Yemen, Rep.",46.230
+212,Zambia,19.560
+213,Zimbabwe,36.580
