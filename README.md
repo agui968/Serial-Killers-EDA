@@ -36,4 +36,6 @@ You will find them in the *data* folder.
 
 + You will also find a *utils* folder with several csv files and material I created to support my EDA.
 
-+ If you want to read an overview of the project, go to the *memo.ipynb* file. 
++ If you want to read an overview of the project, go to the *memo.ipynb* file.
+
+(Warning: The content of this repository is in Spanish)
