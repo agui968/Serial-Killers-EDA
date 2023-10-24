@@ -4,17 +4,21 @@
 This repository contains an EDA project focused on exploring the determinants of serial killers' behavior. The analysis primarily investigates the impact of the environment on serial killers, with a specific focus on:
 
 + Place of origin
++ Number of victims
 + Population density
 + Poverty rate
 
-#### The analysis is driven by several hypotheses:
+#### Hypotheses:
+This analysis is driven by several hypotheses:
 
-+ Serial killers tend to emerge in regions with high population density.
-+ They often originate from or are prevalent in low socio-economic environments.
-+ The prevailing cliché is that serial killers are more common in America and Europe; however, this analysis questions whether this is due to **biases in cultural representation** or if these regions indeed have a higher prevalence.
-+ There might be a certain **relationship between their level of education and culture**.
-+ The analysis seeks to determine which **countries discover serial killers earlier**.
-+ It also aims to identify **countries with the highest number of serial killings**.
+1. This analysis aims to identify **countries with the highest number of serial killings and killers**.
+
+2. It will also try to confirm whether they often originate from or are prevalent in low socio-economic environments.
+3.  Moreover, it will study if serial killers tend to emerge in regions with high population density.
+
+4. The prevailing cliché is that serial killers are more common in America and Europe; however, this analysis questions whether this is due to **biases in cultural representation** or if these regions indeed have a higher prevalence.
+
+5. Lastly, the analysis will also try to determine which **countries discover serial killers earlier**.
 
 ### Data Sources
 
@@ -32,4 +36,4 @@ You will find them in the *data* folder.
 
 + You will also find a *utils* folder with several csv files and material I created to support my EDA.
 
-+ If you want to read an overview of the project, go to the *memo.ipynb* file.
++ If you want to read an overview of the project, go to the *memo.ipynb* file. 
